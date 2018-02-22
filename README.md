@@ -12,3 +12,12 @@ I'm building the panel on a live website. Test it if you like to!
 * password: admin
 
 Reminder: It's a live development enviroment. When I start working on uploading files I'll change the password and stop the demo.
+
+
+
+### How To
+Some usefull How To things
+
+#### Change the Admin folder Location?
+Open the Configuration.php and change the following value to your prefered location. Then, rename the 'admin' folder inside the web root to your prefered location.
+<pre>$admin_location = 'admin';</pre>
