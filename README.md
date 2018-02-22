@@ -21,6 +21,11 @@ Reminder: It's a live development enviroment. When I start working on uploading 
 4. Change the admin folder location to make it more secure :)
 5. login as Admin (Password: admin) and change the default password.
 
+### Requirements
+* Your webserver needs to be online, internal use won't work.
+* PHP 7.0.0 or higher
+* MySQL Database Server. (Build with MariaDB 5.5.56)
+
 
 ### How To
 Some usefull How To things
