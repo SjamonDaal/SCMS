@@ -6,3 +6,9 @@ Many people and company who own multiple sites upload a image once to there core
 
 Fix it by managing all content in one system. seperated from all your websites!
 
+I'm building the panel on a live website. Test it if you like to!
+site: https://media.sdhd.nl/admin/
+username: admin
+password: admin
+
+Reminder: It's a live development enviroment. When I start working on uploading files I'll change the password and stop the demo.
