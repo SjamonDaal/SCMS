@@ -14,6 +14,13 @@ I'm building the panel on a live website. Test it if you like to!
 Reminder: It's a live development enviroment. When I start working on uploading files I'll change the password and stop the demo.
 
 
+### Installation Guide
+1. Simply upload the files your Web Server.
+2. Create a Sub Domain for the site and secure the site with SSL, something like https://media.sdhd.nl
+3. Upload the database to your database server and change the configuration.php to your database settings.
+4. Change the admin folder location to make it more secure :)
+5. login as Admin (Password: admin) and change the default password.
+
 
 ### How To
 Some usefull How To things
