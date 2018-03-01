@@ -4,7 +4,9 @@ A simple web based content management system. don't mess it up, store all conten
 ### Perpose
 Many people and company who own multiple sites upload a image once to there core website and src from sub sites to the core website. Then they change there core website and all sub sites and applications are broken!
 
-Fix it by managing all content in one system. seperated from all your websites!
+Most people are making a mess around there file infrastructure cross there websites. But when the moment comes that the are going to build a new website, hell breaks lose! websites, email signatures and applications are broken and missing images, video's or icons.
+
+Sad.. Lets fix this! Upload your images to this web application and resolve this common issue. Don't upload content to the core webroot. Upload it secure to a  Simple Content Management System (SCMS). seperated from all your websites!
 
 ### Demo
 I'm building the panel on a live website. Test it if you like to!
